@@ -1,5 +1,7 @@
 # Adidas-Sales-Analysis
 
+Dashboard Link: https://public.tableau.com/app/profile/sanchita.sharad.rane/viz/AdidasAnalysis_17220489962970/Dashboard2?publish=yes
+
 Here is the analysis of the Adidas Sales Dashboard based on the uploaded image:
 
 ### Overview
