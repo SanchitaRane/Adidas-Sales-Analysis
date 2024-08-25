@@ -1,4 +1,4 @@
-# Adidas-Sales-Analysis
+# Tableau-data-visualization
 
 Dashboard Link: https://public.tableau.com/app/profile/sanchita.sharad.rane/viz/AdidasAnalysis_17220489962970/Dashboard2?publish=yes
 
